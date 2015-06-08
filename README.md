@@ -4,6 +4,8 @@
 
 Slides for the water hackathon. Open `boilerplate.html` to get started. Part of San Francisco's National Civic Hack Day.
 
+[Project Github Page](https://github.com/brianpiper/hackathon-water-competition)
+
 Project contributors:
 
 * [Brian Piper](https://github.com/brianpiper)
